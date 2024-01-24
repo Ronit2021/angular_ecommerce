@@ -1,0 +1,65 @@
+{
+  "seller": [
+    {
+      "id": "9a30",
+      "name": "Ronit",
+      "email": "seller1@seller.com",
+      "password": "seller@123"
+    },
+    {
+      "id": "bf3c",
+      "name": "Rony",
+      "email": "seller2@seller.com",
+      "password": "seller2@123"
+    },
+    {
+      "id": "ea1d",
+      "name": "meet",
+      "password": "12345",
+      "email": "leework3054@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "a04e",
+      "name": "iPhone 14",
+      "price": "100000",
+      "category": "smartphone",
+      "color": "black",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=90&crop=false",
+      "description": "First product from POSTMan"
+    },
+    {
+      "id": "2ee9",
+      "name": "Samsung S 24 Ultra",
+      "price": "140000",
+      "color": "Black",
+      "category": "Smartphone",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "8621",
+      "name": "Samsung S 24 Plus",
+      "price": "110000",
+      "color": "White",
+      "category": "Smartphone",
+      "image": "https://m.media-amazon.com/images/I/61WZtv4Xy-L._SX569_.jpg"
+    },
+    {
+      "id": "7403",
+      "name": "Samsung S 24",
+      "price": "80000",
+      "color": "Yellow",
+      "category": "Smartphone",
+      "image": "https://m.media-amazon.com/images/I/61k2ydckuLL._SX569_.jpg"
+    },
+    {
+      "id": "2da7",
+      "name": "Samsung S 23 Ultra",
+      "price": "124000",
+      "color": "Blank",
+      "category": "Smartphone",
+      "image": "https://m.media-amazon.com/images/I/61k2ydckuLL._SX569_.jpg"
+    }
+  ]
+}
