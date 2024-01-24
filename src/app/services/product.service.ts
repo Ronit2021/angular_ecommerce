@@ -14,4 +14,11 @@ export class ProductService {
     
     return this.http.post('http://localhost:3000/products',data);
   }
+  productList(){
+    return this.http.get<product[]>('http://localhost:3000/products');
+  }
+  deleteproduct(id:number){
+    return this.http.delete(`http://localhost:3000/products/${id}`);  
+  }
+
 }
